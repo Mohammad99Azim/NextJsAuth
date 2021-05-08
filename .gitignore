@@ -9,6 +9,7 @@ node_modules
 
 # env directories
 .env
+.env.*
 .env*.local
 
 # Logs
